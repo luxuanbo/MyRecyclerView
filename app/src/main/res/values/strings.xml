@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="item_title">穷游亚洲</string>
+    <string name="item_name">环游亚洲</string>
+    <string name="item_nums">19696个帖子</string>
+</resources>
